@@ -11,11 +11,14 @@ A simple music web app created with Reactjs using [Spotify API](https://develope
 - [X] Audio play/pause function
 
 ## Quick Look
+Note: There’s also audio playing in background when you click Play button
+
+<img src='http://imgur.com/a/6RRiL' title='Demo' width='' alt='Demo' />
 
 ## Study Note
-
+- [X] react-bootstrap
 - [X] React libraries and ES6 syntax
-- [X] Worked with web requests and APIs
+- [X] Web requests and APIs in React
 - [X] Flexbox - a form of styling often used in React applications that allows components and elements to expand based on portions of the screen. 
 - [X] Audio - native Javascript object
 
