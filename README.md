@@ -3,6 +3,8 @@
 ## About
 
 A simple music web app created with Reactjs using [Spotify API](https://developer.spotify.com/web-api/)
+node -v : v7.6.0
+npm -v : v4.1.2
 
 ## Detail
 
