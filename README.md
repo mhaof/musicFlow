@@ -17,7 +17,7 @@ A simple music web app created with Reactjs using [Spotify API](https://develope
 - [X] React libraries and ES6 syntax
 - [X] Worked with web requests and APIs
 - [X] Flexbox - a form of styling often used in React applications that allows components and elements to expand based on portions of the screen. 
-- [X] Audio- native Javascript object
+- [X] Audio - native Javascript object
 
 
 
