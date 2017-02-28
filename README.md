@@ -13,7 +13,9 @@ A simple music web app created with Reactjs using [Spotify API](https://develope
 ## Quick Look
 Note: There’s also audio playing in background when you click Play button
 
-<img src='http://imgur.com/a/6RRiL' title='Demo' width='' alt='Demo' />
+<img src='http://i.imgur.com/fRtvIE2.gif' title='Demo' width='' alt='Demo' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Study Note
 - [X] react-bootstrap
