@@ -19,7 +19,7 @@ Note: There’s also audio playing in background when you click Play button
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Study Note
+## Dev Note
 - [X] react-bootstrap
 - [X] React libraries and ES6 syntax
 - [X] Web requests and APIs in React
